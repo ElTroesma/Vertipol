@@ -10,6 +10,7 @@ Las siguientes tecnologías han sido utilizadas para el desarrollo del proyecto:
 
 * Angular 7: https://angular.io/
 * Angular Material: https://material.angular.io/
+* FontAwesome: https://fontawesome.com/
 * ElectronJS: https://electronjs.org/
 * Firebase: https://firebase.google.com/
 * GitHub: https://github.com/
